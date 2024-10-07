@@ -18,9 +18,6 @@ The **Simon Game** is a recreation of the classic memory skill game, where the p
 - Restart and game over functionalities
 - Cross-browser compatibility
 
-## Screenshots
-
-*(Add screenshots or gifs showing the gameplay here)*
 
 ## How to Play
 
